@@ -2,12 +2,15 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
 
+import { Outlet } from 'react-router-dom'
+import Menu from './components/Menu'
+
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <div className="App">
-      <h1>teste</h1>
+      <Menu />
+      <Outlet />
     </div>
   )
 }

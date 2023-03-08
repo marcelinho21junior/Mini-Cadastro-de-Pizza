@@ -1,0 +1,33 @@
+{
+  "todos": [
+    [],
+    {
+      "id": 0.3343138862430013,
+      "nome": "calabresa",
+      "preco": "5",
+      "qtde": "2",
+      "done": false
+    },
+    {
+      "id": 0.1488432850107546,
+      "nome": "catupiry",
+      "preco": "3",
+      "qtde": "4",
+      "done": false
+    },
+    {
+      "id": 0.7636355646072479,
+      "nome": "oregano",
+      "preco": "5",
+      "qtde": "3",
+      "done": false
+    },
+    {
+      "id": 0.012558209856197822,
+      "nome": "atum",
+      "preco": "6",
+      "qtde": "3",
+      "done": false
+    }
+  ]
+}

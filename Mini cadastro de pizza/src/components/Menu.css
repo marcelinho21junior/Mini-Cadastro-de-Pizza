@@ -1,0 +1,17 @@
+.menu{
+    text-align: center;
+    width: 30vw;
+    height: 100vh;
+    background-color:#2C2E3D ;
+    color: white;
+}
+
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+p{
+    color: white;
+}
